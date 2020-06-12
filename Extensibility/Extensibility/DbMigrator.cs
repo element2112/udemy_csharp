@@ -17,7 +17,7 @@ namespace Extensibility
 
             // Details of migrating the db
 
-            logger.LogInfo("Migration started at " + DateTime.Now);
+            logger.LogInfo("Migration ended at " + DateTime.Now);
         }
     }
 }

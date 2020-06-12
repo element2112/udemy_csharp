@@ -7,7 +7,7 @@ namespace Extensibility
     {
         static void Main(string[] args)
         {
-            DbMigrator dbMigrator = new DbMigrator(new FileLogger(@"C:\Users\torchgirl\Desktop\udemy_csharp\udemy_csharp\Extensibility\Extensibility"));
+            DbMigrator dbMigrator = new DbMigrator(new FileLogger(@"C:\Users\bs009\Desktop\udemy_csharp\Extensibility\Extensibility\log.txt"));
             dbMigrator.Migrate();
         }
     }
