@@ -1,0 +1,6 @@
+INFO: Migration started at 6/12/2020 5:26:57 PM
+INFO: Migration ended at 6/12/2020 5:26:57 PM
+INFO: Migration started at 6/12/2020 5:27:11 PM
+INFO: Migration ended at 6/12/2020 5:27:11 PM
+INFO: Migration started at 6/12/2020 5:27:35 PM
+INFO: Migration ended at 6/12/2020 5:27:35 PM
